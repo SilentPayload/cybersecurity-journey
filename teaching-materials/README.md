@@ -1,7 +1,6 @@
 # Teaching Materials
 
-Scripts, tools, and lesson plans built for cybersecurity students 
-at Early Code Institute.
+Scripts, tools, and lesson plans built for cybersecurity students.
 
 ## Structure
 - `python/` — Python scripts built in class
